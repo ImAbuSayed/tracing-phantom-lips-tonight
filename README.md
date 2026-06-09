@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-phantom-lips-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tracing Phantom Lips Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-phantom-lips-tonight/) |
+| **Get License** | [Music Rights & Licensing for Tracing Phantom Lips Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-phantom-lips-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `14ce10dc50668ddad230a315e75414f55fd67fd65930e36b28f5bc3ae101771f` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
