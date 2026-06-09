@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-phantom-lips-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tracing Phantom Lips Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-phantom-lips-tonight/) |
+| **Get License** | [Commercial Licensing for Tracing Phantom Lips Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-phantom-lips-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still feel your breath slipping down my neck
+> A wild little moment that I can't forget
+> Your fingertips painted on the midnight air
+> I turn around and see you standing there
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
